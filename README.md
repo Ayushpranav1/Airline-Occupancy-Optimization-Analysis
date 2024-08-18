@@ -1,5 +1,8 @@
 # Airline Occupancy Optimization Analysis Project
 
+## Dataset 
+The Airline Data Analysis dataset consists of the following tables: aircrafts_data, airports_data, boarding_passes, bookings, flights, seats, ticket_flights, and tickets. The dataset was sourced from - https://www.kaggle.com/datasets/fiazbhk/airline-data-analysis/data
+
 ## Objective
 The primary objective of this data analysis project is to utilize SQL to identify opportunities for increasing the occupancy rates on low-performing flights. By optimizing occupancy, I aim to enhance the airline's overall profitability.
 
